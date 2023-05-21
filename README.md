@@ -1,5 +1,7 @@
 # 💫About Me :
+
 Hi everyone, I'm Minh Thang
+
 I'm a student of: FPT HCM University
 
 ## 🌐Socials
